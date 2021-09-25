@@ -70,7 +70,7 @@ def main():
 
     # @st.cache
     # bir buyuk bir datatyi read_csv ile tekrar tekrar okutmamak icin hafuzada tutmasi icin st.cache kullanilir.
-    lightGBM = pickle.load(open("lightGBM.pkl","rb"))
+    lightGBM = pickle.load(open("LightGBM.pkl","rb"))
     
     with open('FE_dict.pkl', 'rb') as handle:
         FE_dict = pickle.load(handle)
