@@ -1,7 +1,7 @@
 pickleshare==0.7.5
 imbalanced-learn==0.7.0
 imblearn==0.0
-lightgbm==2.3.1
+lightgbm==2.2.3
 matplotlib==3.4.1
 numpy==1.19.5
 scikit-learn==0.24.2
