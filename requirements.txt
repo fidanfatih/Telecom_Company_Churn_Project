@@ -1,11 +1,9 @@
 pickleshare==0.7.5
-imbalanced-learn==0.7.0
-imblearn==0.0
 lightgbm==2.2.3
 matplotlib==3.4.1
 numpy==1.19.5
-scikit-learn==0.24.2
-scipy==1.5.4
+scikit-learn==0.22.2.post1
+scipy==1.4.1
 seaborn==0.11.1
 statsmodels==0.12.2
 streamlit==0.82.0
